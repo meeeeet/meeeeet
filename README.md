@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="width: 35px;
   height: 35px; max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I'm Meet Sangani</h1>
-🌱 I’m currently learning <b>Python and Verilog HDL</b>
+🌱 I’m currently learning <b>Python </b> and <b>Verilog HDL</b>
 
 📫 How to reach me **meetdotsangani@gmail.com**
 
