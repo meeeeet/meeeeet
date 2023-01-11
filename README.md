@@ -5,7 +5,7 @@
 
 📫 How to reach me **meetdotsangani@gmail.com**
 
-👀 I’m interested in Computer Vision and FPGA Programming.
+👀 I’m interested in **Computer Vision and FPGA Programming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
