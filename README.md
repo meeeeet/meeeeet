@@ -3,9 +3,11 @@
   
 🌱 I’m currently learning <b>Python </b> and <b>Verilog HDL</b>
 
+👀 I’m interested in **Computer Vision and FPGA Programming.**
+
 📫 How to reach me **meetdotsangani@gmail.com**
 
-👀 I’m interested in **Computer Vision and FPGA Programming.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
