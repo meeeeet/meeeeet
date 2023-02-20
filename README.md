@@ -22,4 +22,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meeeeet&theme=dark" alt="meeeeet" /></p>
 
 
+![Snake animation](https://github.com/meeeeet/meeeeet/blob/output/snake.svg)
 
+###
