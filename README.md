@@ -3,7 +3,7 @@
   height: 35px; max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I'm Meet Sangani</h1>
   
 - 👀 I’m interested in RTL Design and Design Verification.
-- 🌱 I’m currently learning Advanced Bus Protocols and Verification Methodologies.
+- 🌱 I’m currently learning Advanced Bus Protocols, Verification Methodologies and RISC Architecture.
 - 💞️ I’m looking to collaborate on ASIC Design, and FPGA projects.
 - 📫 How to reach me : meetdotsangani@gmail.com
 
