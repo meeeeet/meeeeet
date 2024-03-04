@@ -3,10 +3,13 @@
   height: 35px; max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I'm Meet Sangani</h1>
   
 - 👀 I’m interested in RTL Design and Design Verification.
-- 🌱 I’m currently learning Advanced Bus Protocols, Verification Methodologies and RISC Architecture.
+- 🌱 I’m currently learning Advanced Bus Protocols, Verification Methodologies and RISC-V Architecture.
 - 💞️ I’m looking to collaborate on ASIC Design, and FPGA projects.
 - 📫 How to reach me : meetdotsangani@gmail.com
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meeeeet&show_icons=true&theme=dark&locale=en&layout=compact" alt="meeeeet" /></p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meeeeet&label=Profile%20views&color=306382&style=plastic" alt="meeeeet" /> </p>
 
 
