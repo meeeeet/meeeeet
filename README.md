@@ -4,7 +4,7 @@
   
 - 👀 I’m interested in RTL Design and Design Verification.
 - 🌱 I’m currently learning Advanced Bus Protocols, Verification Methodologies and RISC-V Architecture.
-- 📫 How to reach me : meetdotsangani@gmail.com
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/meetsangani/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meeeeet&show_icons=true&theme=dark&locale=en&layout=compact" alt="meeeeet" /></p>
 
